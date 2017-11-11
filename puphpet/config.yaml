@@ -43,7 +43,7 @@ vagrantfile:
             vflsf_fji0r1qweyg7:
                 owner: www-data
                 group: www-data
-                source: /mnt/NASMARIOSMB/devVagrant
+                source: /home/mario/desarrollo
                 target: /var/www
                 sync_type: default
                 smb:
